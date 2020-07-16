@@ -436,7 +436,6 @@ void MoldGame()
 	for (int i = 8; i <= 44; i++)
 	{
 
-
 		for (int j = 40; j < 165; j++)
 		{
 			if (j % 5 == 0)
